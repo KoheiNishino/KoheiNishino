@@ -1,7 +1,7 @@
 <div align="center">
   <p>Hi there! 👋</p>
   <p>I'm Frontend Developer in Tokyo 🇯🇵</p>
-  <p>I regularly write articles on <a href="https:koheinishino.com" target="blank">The Kohei Nishino Experience</a> ✍️</p>
+  <p>I regularly write articles on <a href="https://koheinishino.com" target="_blank">The Kohei Nishino Experience</a> ✍️</p>
 </div>
 
 ### My Job
@@ -21,15 +21,15 @@
 
 ### My blog
 
-<a href="https://github.com/KoheiNishino/nextjs-blog" target="blank">KoheiNishino/nextjs-blog</a>
+<a href="https://github.com/KoheiNishino/nextjs-blog" target="_blank">KoheiNishino/nextjs-blog</a>
 
 ### Connect with me
 
 <p>
-  <a href="https://github.com/KoheiNishino" target="blank">
+  <a href="https://github.com/KoheiNishino" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="KoheiNishino" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/koheinishino_" target="blank">
+  <a href="https://twitter.com/koheinishino_" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="koheinishino_" height="30" width="40" />
   </a>
 </p>
