@@ -8,12 +8,13 @@
 
 <p>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>   </a>
+    <img src="https://img.shields.io/badge/typescript-121212?style=for-the-badge&logo=typescript" alt="typescript"/>
+  </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/react-121212?style=for-the-badge&logo=react" alt="react"/>
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/next.js-121212?style=for-the-badge&logo=nextdotjs" alt="nextjs"/>
   </a>
 </p>
 
@@ -27,9 +28,9 @@
 
 <p>
   <a href="https://github.com/KoheiNishino" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="KoheiNishino" height="30" width="40" />
+    <img src="https://img.shields.io/badge/github-121212?style=for-the-badge&logo=github" alt="KoheiNishino"/>
   </a>
   <a href="https://twitter.com/koheinishino_" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="koheinishino_" height="30" width="40" />
+    <img src="https://img.shields.io/badge/twitter-121212?style=for-the-badge&logo=twitter" alt="koheinishino_"/>
   </a>
 </p>
