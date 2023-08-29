@@ -35,7 +35,7 @@ https://shields.io/
   <a href="https://github.com/KoheiNishino" target="_blank">
     <img src="https://img.shields.io/badge/github-121212?style=for-the-badge&logo=github" alt="KoheiNishino"/>
   </a>
-  <a href="https://twitter.com/koheinishino_" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-121212?style=for-the-badge&logo=twitter" alt="koheinishino_"/>
+  <a href="https://x.com/koheinishino_" target="_blank">
+    <img src="https://img.shields.io/badge/x-121212?style=for-the-badge&logo=x" alt="koheinishino_"/>
   </a>
 </p>
