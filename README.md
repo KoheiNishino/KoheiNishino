@@ -23,7 +23,7 @@ https://shields.io/
   </a>
 </p>
 
-<p>I am developing some matching services for developers at HR Tech company 🧑‍💻</p>
+<p>I am developing component library for in-house developers at Proptech company 🧑‍💻</p>
 
 ### My blog
 
